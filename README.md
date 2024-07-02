@@ -39,6 +39,9 @@ git clone https://github.com/EnzoGui18/Finance.git
 ## Funcionalidades
 
 Importação de Dados: Leitura de dados financeiros de várias fontes.
+
 Análise Estatística: Cálculo de métricas financeiras importantes.
+
 Visualizações: Gráficos e visualizações para melhor compreensão dos dados.
+
 Previsões: Modelos de previsão financeira baseados em dados históricos.
